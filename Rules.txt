@@ -1,0 +1,18 @@
+moving:
+	-take only from your side.
+	-move counter clockwise
+	-place seeds in pits along
+	the path except for the 
+	enemy's store.
+	-if you end in your store 
+	you get another turn.
+	-if you end in an empty pit
+	on your side you get the 
+	seeds opposite you and the 
+	single seed. place in store.
+	-game ends when a side is 
+	empty
+	-opponent takes the seeds on
+	their side into their store
+	-who ever has the most seeds
+	is the winner.
