@@ -23,7 +23,4 @@ Next I made the DefensiveAgent. Its strategy is to give up the least points. Its
 
 Lastly there is the BiPolarAgent. This final agent takes in a number between 1 and 100. This number determines the percent of the time it makes an aggressive type move. Otherwise it makes a defensive move.
 
-
-BiPolarMancala.cpp has 2 BiPolarAgents playing each other with one being more aggressive.
-
-MonPolarMancala.cpp is currently set up to have 2 Aggressive agents play each other.
+MonPolarMancala.cpp is currently set up to have 2 Aggressive agents play each other, but adjust the commented out agents to see how others deal.
